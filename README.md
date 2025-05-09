@@ -25,8 +25,9 @@ What tool did I use for this analysis? I basically used SQL in deriving insights
 1. Importing our excel data.
 2. Data Cleaning & STANDARDIZATION
 3. Data analysis
-4. Recommendations
-5. Conclusion.
+4. Key Insights.
+5. Recommendations
+6. Conclusion.
 
 ## DATA IMPORTING
 Here, I simply imported this dataset in it's excel form into SQL Server Management Studios.
@@ -38,11 +39,6 @@ I do this by first glancing through the datasets and to fully understand the it 
 2. Are the columns that need to be splitted for some reasons?
 3. Is it advisable to remove null values for certain columns or fill these null values with certain informations?
 4. Do I change some values in some columns to make them even more readable and understandable for my client? etc.
-
-Some of the functions and employed are shown below:
-
-
-
 
 # DATA ANALYSIS
 After my data cleaning and standardization round, I then looked at performing some analytical queries to derive business insights. These included:
@@ -58,6 +54,26 @@ After my data cleaning and standardization round, I then looked at performing so
 10. The top coffee raost types preferred per country?
 11. Total loyalty card holders in each country?
 12. The customer with the most orders placed?
+
+# KEY INSIGHTS
+1. USA, UK and Germany lead in both total and average revenues respectively.
+2. Arabica and Roberica proved to be the most sold coffee types.
+3. Only a small group or number of people contribute the most towards our revenue
+4. The data saw that November and December saw more orders that the remaining months.
+5. I also observed that roast and coffee type preferences varied across countries.
+6. Some cities saw significantly lower average revenues per order.
+
+# RECOMMENDATIONS
+1. Since USA, UK and Germany saw a higher revenue surge, management should increase their marketing efforts and loyalty programs in these countries.
+2. Management should maintain a strong supply chains and launch seasonal variations for Arabica and Roberica seeing the are the top seeling coffee types
+3. For the small group of people driving the most revenue for this company, its is advisable that management create something like, a VIP rewards program or event to reward them.
+4. Seeing how November and December attract most customers and revenue, scheduling promotions and limited-time offers around these peak period will be very rewarding for the company.
+5. Management should try understanding the and adapting to the regional taste for the available coffee varieties so as to tailor specific coffe types, roast types and sizes to these regions to make the most revenue.
+
+ # CONCLUSION
+ This analysis reveals strong opportunities for growth through regional customization, targeted promotions, and customer segmentation. By focusing on high performing markets, nurturing top customers, and aligning inventory with preferences, the company can significantly enhance revenue and customer loyalty. Also, strategic use of loyalty programs and seasonal campaigns will further drive sales and strengthen brand engagement.
+
+ Thank you.
 
 
 
