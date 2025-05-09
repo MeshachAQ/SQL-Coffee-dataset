@@ -1,18 +1,34 @@
 # ABOUT PROJECT DATA
-The coffee order dataset provides insights into customer purchasing behavior across various coffee types, sizes, and roast types. It captures key variables such as customer preferences, seasonal trends and top customers. 
+The coffee order dataset provides insights into customer purchasing behavior across various coffee types, sizes, and roast types by this coffee shop company. It captures key variables such as customer preferences, seasonal trends and top customers. it contains three different sheets namely: Products, Orders and Customers.
+What tool did I use for this analysis? I basically used SQL in deriving insights towards business goals and objectives.
 
-After downloading the data, I applied the four step process I normally follow. which are 
+# WHAT ARE THE KEY BUSINESS QUESTIONS FOR THIS ANALYSIS?
+1. What coffee products generates the most revenue?
+2. What are the best-selling coffee types, roast types or sizee?
+3. Are there seasonal trends in order volume?
+4. Who are the top customers by revenue?
+5. What countries or cities contributed the most revenue?
 
-### Data Cleaning & Transformation
-### Data analyzing
-### Data visualization
-### Recommendations
+# WHAT ARE MY GOALS OF TACKLING THIS ASSIGNMENT AS AN ANALYST WORKING FOR THIS COFFEE SHOP COMPANY?
+1. To analyze sales and customer behavior in order to improve business performance
+2. To help the business optimize it's product offerings and pricing strategies.
+3. Support data-driven decision making across departments.
+
+# WHAT WERE MY OBSERVATIONS GOING IN TO TACKLE THIS PROJECT?
+1. First and fore most, I had to make use of the joins function as it is required, that the various data sheets demanded to be joined for the full data insight.
+2. The data demanded certain data cleaning and standardization.
+3. I also needed to track KPIS like total Sales, Average Sales and quantities ordered.
+4. I also looked at the customer segmentation by geography, loyalty status and order patterns.
+
+# STEPS I TOOK TOWARDS THIS PROJECT INCLUDES
+
+1. Data Cleaning & STANDARDIZATION
+2. Data analysis
+3. Recommendations
+4. Conclusion.
 
 # Data Cleaning
 
-In this dataset, I had only checked and confirmed there aren't any duplicates in excel so I moved forward with standardizing the dataset![COFFEE SQL 2](https://github.com/user-attachments/assets/de7ce6f9-6221-432d-b65b-27428df09542)
-
-Above, I used functions like CASE END to change or standardize how some of the names were spelt out. I wanted to make it more readable for anyone that looks at the project, I also made use of Parsename and replace, to separate the full name column into First_Name and Sur_Name. I also made use of delete where information of something columns are null, I didn't want that in this project and also we dropped some columns we won't be using.![COFFEE SQL](https://github.com/user-attachments/assets/07639fb5-25d0-4157-8f8d-3ac7e1aa16c5)
 
 
 # Data Analysing
