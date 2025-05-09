@@ -1,21 +1,5 @@
-# INTRODUCTION 
-
-Hello, a little something about this project before we dive right into. So around November 2020, I had an interview with one really
-
-good company here in Ghana. At the time, even though I had studied SQL, I just wasnt so confident, it was as if I didnt know what I went there for
-
-and when the interview started, my nervousness and negative mentality really kicked in.  The interview was on a simple sql project on JOINS however, 
-
-it wasn't the regular joins but multiple Joins and I just didnt know my way around it. To cut every short, I failed the interview but that didn't mean I was out
-
-and given up I needed a dataset similar to the one I had in there. Luckily I had already downloaded this dataset and done something with it in Exce. I then
-
-began to think and imagine similar questions with this dataset that I saw when I went for the interview. took me a while but finally got the hang of it.
-
-I say well done to me.
-
-Anyways, For this particular project, The source of my data was from kaggle . The dataset contained three different excel sheet, the first one contained data about the orders,
- second customers and third, Products.
+# ABOUT PROJECT DATA
+The coffee order dataset provides insights into customer purchasing behavior across various coffee types, sizes, and roast types. It captures key variables such as customer preferences, seasonal trends and top customers. 
 
 After downloading the data, I applied the four step process I normally follow. which are 
 
