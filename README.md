@@ -40,6 +40,12 @@ I do this by first glancing through the datasets and to fully understand the it 
 3. Is it advisable to remove null values for certain columns or fill these null values with certain informations?
 4. Do I change some values in some columns to make them even more readable and understandable for my client? etc.
 
+![Screenshot_20250509-220700](https://github.com/user-attachments/assets/6a32cb0f-b54a-4f63-b954-55ff1282065e)
+
+![Screenshot_20250509-220750](https://github.com/user-attachments/assets/62fb6ca3-7698-42fe-866a-bcd72251098e)
+
+![Screenshot_20250509-220859](https://github.com/user-attachments/assets/cd88c3b9-05cb-4bde-b4cd-63d64c091e64)
+
 # DATA ANALYSIS
 After my data cleaning and standardization round, I then looked at performing some analytical queries to derive business insights. These included:
 1. What the overall total revenue for this company during the period is?
