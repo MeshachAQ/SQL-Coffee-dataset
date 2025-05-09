@@ -61,6 +61,17 @@ After my data cleaning and standardization round, I then looked at performing so
 11. Total loyalty card holders in each country?
 12. The customer with the most orders placed?
 
+Some of these queries used for this project are;
+
+![Screenshot_20250509-221048](https://github.com/user-attachments/assets/65de3212-d7b6-4f1a-9b6e-fe078ba060ad)
+
+![Screenshot_20250509-221126](https://github.com/user-attachments/assets/6c6fc596-3b83-439b-8394-174b70990eeb)
+
+![Screenshot_20250509-221203](https://github.com/user-attachments/assets/e59e0362-d1e0-4a36-bc07-0639b3c06968)
+
+![Screenshot_20250509-221254](https://github.com/user-attachments/assets/2039686f-dfe9-46d4-aa22-7ecccf381e3b)
+
+
 # KEY INSIGHTS
 1. USA, UK and Germany lead in both total and average revenues respectively.
 2. Arabica and Roberica proved to be the most sold coffee types.
